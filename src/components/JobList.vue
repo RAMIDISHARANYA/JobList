@@ -54,7 +54,8 @@ export default {
 }
 .v-card.on-hover {
   border-left: 4px solid rgb(15, 187, 67);
-  /* background-color: rebeccapurple; */
+  /* background-color: rebeccapurple; 
+  */
 }
 .v-card__text {
   color: rgb(61, 12, 126) !important;
